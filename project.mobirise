@@ -37,7 +37,7 @@
       ]
     },
     "versionFirst": "4.7.1",
-    "uniqCompNum": 29,
+    "uniqCompNum": 32,
     "versionPublish": "4.7.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -577,7 +577,7 @@
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "About Us",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -1025,7 +1025,7 @@
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "Contact Us",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -1487,7 +1487,7 @@
       "settings": {
         "meta_descr": "Web Creator Description",
         "title": "Executive protection",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -1948,7 +1948,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Self-defence training",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -2409,7 +2409,7 @@
       "settings": {
         "meta_descr": "Web Page Generator Description",
         "title": "Debt Collection",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -2870,7 +2870,7 @@
       "settings": {
         "meta_descr": "Web Page Maker Description",
         "title": "Private investigation",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
